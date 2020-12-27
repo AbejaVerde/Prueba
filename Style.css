@@ -1,0 +1,201 @@
+* {
+    padding: 0%;
+    margin-left:  10px;
+}
+
+
+
+.Titulo{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Encabezado{
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+.Ejemplo {
+    border-style: dotted;
+}
+
+
+.BordeRojo {
+
+    border-style: dotted;
+    border-color: red;
+    
+}
+
+.FondoAzul{
+
+    background-color: lightblue;
+}
+
+a{
+    font-size: 2em;
+    color: #000;
+    font-weight: 700;
+    
+}
+
+.FondoCeleste{
+
+    background-color: lightblue;
+
+}
+
+.FondoCeleste2{
+
+    background-color: lightblue;
+    padding:17px
+
+}
+
+.FondoAzul2{
+
+    background-color: lightblue;
+    padding-bottom: 40px;
+}
+
+
+.FondoAzul3{
+
+
+    width: 130px;
+    box-sizing: content-box;
+    background-color: lightblue;
+}
+
+.FondoAzul4{
+
+
+    width: 130px;
+    box-sizing: content-box;
+    background-color: lightblue;
+    padding: 15px;
+}
+
+.FondoAzul5{
+
+
+    width: 130px;
+    box-sizing: content-box;
+    background-color: lightblue;
+    padding: 15px;
+    border: solid blue 20px;
+}
+
+.FondoAzul6{
+
+
+    width: 130px;
+    box-sizing: content-box;
+    background-color: lightblue;
+    padding: 15px;
+    border: solid blue 20px;
+    margin-left: 30px;
+}
+
+.CambioColor{
+    color:blue
+}
+
+.CambioColor2{
+    color:red
+}
+
+.Centrar{
+    text-align: center;
+}
+
+.Sangria{
+
+    text-indent: 1em;
+}
+
+.TodoMayusculas{
+    text-transform: uppercase;
+
+}
+
+
+
+.MayusculasIniciales {
+    text-transform: capitalize
+}
+
+
+.CambioLetra{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;  ;
+}
+         
+.CambioLetra2{
+
+    font-size: 15px;
+}  
+
+.CambioLetra3{
+
+    font-size: 45px;
+}  
+
+.CambioLetra4{
+    font-weight: bold;
+}
+
+.CambioLetra5{
+    font-size: 20px; 
+}
+
+
+.CajaFinal{
+
+    border: solid lightblue 20px;
+    max-width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+
+
+   
+}
+
+.CajaInterior{
+    padding: 20px;
+
+
+}
+
+.CajaFinal2{
+
+    border: solid lightblue 20px;
+    max-width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+
+
+   
+}
+
+.CajaInterior2{
+    background:lightblue;
+    margin:60px 30px 60px 30px;
+    text-align: center;
+    background-size: contain;
+
+
+
+}
+
+.TItuloInterior{
+
+    Color:green;
+    font-size: 27px;
+    font-weight: bold;
+
+}
